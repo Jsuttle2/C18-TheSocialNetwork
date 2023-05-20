@@ -1,17 +1,10 @@
 # Social Network
 
-![GitHub](https://img.shields.io/github/license/Magicalburritos/social-network-api18)
+Using insomnia to run CRUD operations from your root repo.
 
 ## Description
 
 social network API that lets you connect with friends and share and have thoughts reacted with
-
-## table of Contents
-
-- [Installation](#Installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
@@ -28,6 +21,6 @@ MIT
 
 ## Questions
 
-GitHub: Magicalburritos
+GitHub: Jsuttle2
 
-Email: hudakjoe@msn.com
+Email: jsuttle2@gmail.com
